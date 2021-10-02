@@ -2,13 +2,13 @@
 
 ### 👋 Hi there ! I'm Sergey 
 ### ‍💻 ‍ &nbsp;About Me
+<img alt="Night Coding" src="static/coding2.gif" align="right" width="330px"/>
 
 💡 &nbsp;I like solving sports programming problems\
 🎓 &nbsp;I am a 3rd year CT student at ITMO University\
 🌱 &nbsp;I like challenging tasks and 🍺 &nbsp;drink 🍺 &nbsp;beer 🍺\
 📄 &nbsp;Please have a look at my [CV](files/CV.pdf) for more details about me. 
 
-<img alt="Night Coding" src="static/coding2.gif" align="right" width="330px"/>
 
 🛠 &nbsp;Tech Stack
 
