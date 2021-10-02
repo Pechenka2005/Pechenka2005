@@ -8,7 +8,7 @@
 🌱 &nbsp;I like challenging tasks and 🍺 &nbsp;drink 🍺 &nbsp;beer 🍺\
 📄 &nbsp;Please have a look at my [CV](files/CV.pdf) for more details about me. 
 
-<img alt="Night Coding" src="static/coding2.gif" align="right" width="350px"/>
+<img alt="Night Coding" src="static/coding2.gif" align="right" width="330px"/>
 
 🛠 &nbsp;Tech Stack
 
