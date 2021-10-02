@@ -6,9 +6,9 @@
 💡 &nbsp;I like solving sports programming problems\
 🎓 &nbsp;I am a 3rd year CT student at ITMO University\
 🌱 &nbsp;I like challenging tasks and 🍺 &nbsp;drink 🍺 &nbsp;beer 🍺\
-📄  Please have a look at my [CV](files/CV.pdf) for more details about me. 
+📄 &nbsp;Please have a look at my [CV](files/CV.pdf) for more details about me. 
 
-<img alt="Night Coding" src="static/coding2.gif" align="right" width="400px"/>
+<img alt="Night Coding" src="static/coding2.gif" align="right" width="350px"/>
 
 🛠 &nbsp;Tech Stack
 
