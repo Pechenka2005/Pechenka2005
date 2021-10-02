@@ -2,7 +2,7 @@
 
 ### 👋 Hi there ! I'm Sergey 
 ### ‍💻 ‍ &nbsp;About Me
-<img alt="Night Coding" src="static/coding2.gif" align="right" width="330px"/>
+<img alt="Night Coding" src="static/coding2.gif" align="right" width="400px"/>
 
 💡 &nbsp;I like solving sports programming problems\
 🎓 &nbsp;I am a 3rd year CT student at ITMO University\
