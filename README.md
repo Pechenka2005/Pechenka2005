@@ -1,19 +1,16 @@
-
 ![title image](static/wallpaperbetter.jpg)
 
-### 👋 Hi there ! I'm Sergey 
+## 👋 Hi there ! I'm Sergey 
 
+## ‍💻 ‍ &nbsp;About Me
 
-
-### ‍💻 ‍ &nbsp;About Me
-
-💡 &nbsp;I like solving sports programming problems\
-🎓 &nbsp;I am a 3rd year CT student at ITMO University\
-🌱 &nbsp;I like challenging tasks and 🍺 &nbsp;drink 🍺 &nbsp;beer 🍺
+####💡 &nbsp;I like solving sports programming problems\
+####🎓 &nbsp;I am a 3rd year CT student at ITMO University\
+####🌱 &nbsp;I like challenging tasks and 🍺 &nbsp;drink 🍺 &nbsp;beer 🍺
 
 ![title image](static/coding.gif)
 
-🛠 &nbsp;Tech Stack
+##🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
@@ -27,14 +24,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
 
-⚙️ Connect with Me
+##⚙️ Connect with Me
 
 <p align="center">
 <a href="https://www.instagram.com/blackchopi/"><img src="https://img.shields.io/badge/-@Pechenka2005-0077B5?style=flat&logo=telegram&logoColor=white"/></a>
 <a href="https://www.instagram.com/blackchopi"><img src="https://img.shields.io/badge/-@blackchopi-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://t.me/Pechenka2005"><img src="https://img.shields.io/badge/-@seregha_blackzaika__-1877F2?style=flat&logo=vk&logoColor=white"/></a>
-
-</p>
-
-      
-
