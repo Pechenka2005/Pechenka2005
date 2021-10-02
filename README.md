@@ -8,9 +8,9 @@
 🌱 &nbsp;I like challenging tasks and 🍺 &nbsp;drink 🍺 &nbsp;beer 🍺\
 📄  Please have a look at my [CV](files/CV.pdf) for more details about me. 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="static/coding.gif" align="right"/>
 
-##🛠 &nbsp;Tech Stack
+🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
@@ -24,9 +24,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
 
-##⚙️ Connect with Me
+⚙️ Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="https://www.instagram.com/blackchopi/"><img src="https://img.shields.io/badge/-@Pechenka2005-0077B5?style=flat&logo=telegram&logoColor=white"/></a>
 <a href="https://www.instagram.com/blackchopi"><img src="https://img.shields.io/badge/-@blackchopi-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://t.me/Pechenka2005"><img src="https://img.shields.io/badge/-@seregha_blackzaika__-1877F2?style=flat&logo=vk&logoColor=white"/></a>
