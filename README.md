@@ -1,14 +1,14 @@
 ![title image](static/wallpaperbetter.jpg)
 
-## 👋 Hi there ! I'm Sergey 
+### 👋 Hi there ! I'm Sergey 
+### ‍💻 ‍ &nbsp;About Me
 
-## ‍💻 ‍ &nbsp;About Me
+💡 &nbsp;I like solving sports programming problems\
+🎓 &nbsp;I am a 3rd year CT student at ITMO University\
+🌱 &nbsp;I like challenging tasks and 🍺 &nbsp;drink 🍺 &nbsp;beer 🍺\
+📄  Please have a look at my [CV](files/CV.pdf) for more details about me. 
 
-####💡 &nbsp;I like solving sports programming problems\
-####🎓 &nbsp;I am a 3rd year CT student at ITMO University\
-####🌱 &nbsp;I like challenging tasks and 🍺 &nbsp;drink 🍺 &nbsp;beer 🍺
-
-![title image](static/coding.gif)
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ##🛠 &nbsp;Tech Stack
 
