@@ -4,7 +4,7 @@
 ### ‍💻 ‍ &nbsp;About Me
 <img alt="Night Coding" src="static/coding2.gif" align="right" width="400px"/>
 
-💡 &nbsp;I like solving sports programming problems\
+💡 &nbsp;I like solving competitive programming problems\
 🎓 &nbsp;I am a 3rd year CT student at ITMO University\
 🌱 &nbsp;I like challenging tasks and 🍺 &nbsp;drink 🍺 &nbsp;beer 🍺\
 📄 &nbsp;Please have a look at my [CV](files/CV.pdf) for more details about me. 
@@ -25,7 +25,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
 
-⚙️ Connect with Me
+⚙️ Contact with Me
 
 <p align="left">
 <a href="https://www.instagram.com/blackchopi/"><img src="https://img.shields.io/badge/-@Pechenka2005-0077B5?style=flat&logo=telegram&logoColor=white"/></a>
