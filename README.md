@@ -28,6 +28,6 @@
 ⚙️ Contact with Me
 
 <p align="left">
-<a href="https://www.instagram.com/blackchopi/"><img src="https://img.shields.io/badge/-@Pechenka2005-0077B5?style=flat&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/Pechenka2005"><img src="https://img.shields.io/badge/-@Pechenka2005-0077B5?style=flat&logo=telegram&logoColor=white"/></a>
 <a href="https://www.instagram.com/blackchopi"><img src="https://img.shields.io/badge/-@blackchopi-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://t.me/Pechenka2005"><img src="https://img.shields.io/badge/-@seregha_blackzaika__-1877F2?style=flat&logo=vk&logoColor=white"/></a>
+<a href="https://vk.com/seregha_blackzaika"><img src="https://img.shields.io/badge/-@seregha_blackzaika__-1877F2?style=flat&logo=vk&logoColor=white"/></a>
